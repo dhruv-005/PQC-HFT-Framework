@@ -1,0 +1,5 @@
+{
+  "name": "PQC-HFT Framework",
+  "description": "Post-Quantum Cryptography for High-Frequency Trading: Securing Microsecond Financial Communications Against Quantum Adversaries",
+  "requestFramePermissions": []
+}
