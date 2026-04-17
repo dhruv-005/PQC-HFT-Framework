@@ -616,7 +616,7 @@ Full reference list in [`docs/references.bib`](docs/references.bib).
 
 ---
 
-## 📬 Contact & Collaboration
+## 📬 Contact
 
 **Dhruv Mukeshbhai Sonani**  
 Department of Computer Engineering  
